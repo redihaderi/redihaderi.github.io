@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: Courses taught in universities
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
 - Math 1090, Fall 2014, University of Utah, USA
