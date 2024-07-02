@@ -4,7 +4,7 @@ permalink: /talks/
 title: Talks
 description: Talks and presentations in chronological order.
 nav: true
-nav_order: 7
+nav_order: 3
 ---
 
 - "Higher equipments and homotopy colimits", Young Topologists Meeting, EPFL, 2019.
