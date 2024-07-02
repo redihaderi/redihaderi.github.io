@@ -3,7 +3,7 @@ layout: page
 permalink: /awards/
 title: Awards
 nav: true
-nav_order: 7
+nav_order: 8
 ---
 
 - Best talk award in Topics in Category Theory: Spring School, University
