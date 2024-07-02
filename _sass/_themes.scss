@@ -120,16 +120,3 @@ html[data-theme-setting="dark"] {
     background: var(--global-back-to-top-bg-color);
   }
 }
-
-html[data-theme-setting="light"] {
-
-  #light-toggle-dark {
-    display: none;
-  }
-
-  #light-toggle-light {
-    padding-left: 10px;
-    padding-top: 12px;
-    display: block;
-  }
-}
