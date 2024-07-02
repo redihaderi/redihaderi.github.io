@@ -20,4 +20,6 @@ social: false # includes social icons at the bottom of the page
 I am a postdoctoral researcher at [Bilkent University](https://w3.bilkent.edu.tr/bilkent/), working in quantum information theory in a project lead by [Cihan Okay](https://www.cihanokay.com/). I received my doctorate in Mathematics from Bilkent in January 2023, advised by [Ozgun Unlu](http://www.fen.bilkent.edu.tr/~unluo/). 
 
 My research interests lie in the interaction between category theory and algebraic topology. More specifically, I am interested in homotopy coherent categories and
-operads. I also have an interest in categorical quantum theory.
+operads. I also have an interest in categorical quantum theory. Check out my [writings]({{site.url}}/publications/) and [talks]({{site.url}}/talks/) pages for more details.
+
+I have taught Math courses at Bilkent University (TR), University of Utah (USA) and Metropolitan University (ALB). See my [teaching]({{site.url}}/teaching/) page for further information.
