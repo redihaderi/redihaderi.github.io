@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a>Email:</a> <a href='mailto:haderiredi@gmail.com.com'>haderiredi@gmail.com</a>
 
