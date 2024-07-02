@@ -1,12 +1,22 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: Courses taught in universities
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+- Math 1090, Fall 2014, University of Utah, USA
 
-Organize your courses by years, topics, or universities, however you like!
+- Analize 2, Spring 2016, Metropolitan University, Albania
+
+- Math 102, Fall 2019, Bilkent University, Turkey
+
+- Math 101, Spring 2020, Bilkent University, Turkey
+
+- Math 105, Fall 2021, Bilkent University, Turkey
+
+- Math 102, Spring 2022, Bilkent University, Turkey
+
+- Math 101, Fall 2022, Bilkent University, Turkey
