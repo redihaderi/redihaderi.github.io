@@ -2,24 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a>Email:</a> <a href='mailto:haderiredi@gmail.com.com'>haderiredi@gmail.com</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: redi_prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Office: SA 116</p>
+    <p>Bilkent University</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a postdoctoral researcher at [Bilkent University](https://w3.bilkent.edu.tr/bilkent/), working in quantum information theory in a project lead by [Cihan Okay](https://www.cihanokay.com/). I received my doctorate in Mathematics from Bilkent University in January 2023, advised by [Ozgun Unlu](http://www.fen.bilkent.edu.tr/~unluo/). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests lay in the interaction between category theory and algebraic topology. More specifically, I am interested in homotopy coherent categories and
+operads. I also have an interest in categorical quantum theory.
