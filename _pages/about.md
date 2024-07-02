@@ -23,3 +23,5 @@ My research interests lie in the interaction between category theory and algebra
 operads. I also have an interest in categorical quantum theory. Check out my [writings]({{site.url}}/publications/) and [talks]({{site.url}}/talks/) pages for more details.
 
 I have taught Math courses at Bilkent University (TR), University of Utah (USA) and Metropolitan University (ALB). See my [teaching]({{site.url}}/teaching/) page for further information.
+
+I was born and raised in Shkodra, Albania. I am fluent in Albanian and English. I speak good Italian and Turkish.
