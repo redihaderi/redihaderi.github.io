@@ -21,13 +21,13 @@ nav_order: 3
 
 ### Seminar Talks
 
-##### Quantum Computing Seminar @ Bilkent University
+Quantum Computing Seminar @ Bilkent University
 
 - ["Symmetric Monoidal Categories (II)"](https://www.youtube.com/watch?v=QLhOLikeKxs) (youtube link), March 2024
 
 - ["Bicategories and monoidal bicategories"](http://www.fen.bilkent.edu.tr/~cvmath/tr/seminars/2021-2022/10052024.pdf) (abstract link), May 2024
 
-##### Topology Seminar @ Bilkent University
+Topology Seminar @ Bilkent University
 
 - ["Coloured Operads and Dendroidal Sets"](http://www.fen.bilkent.edu.tr/~cvmath/tr/seminars/2018Spring/02042018-2.pdf) (abstract link), April 2018
 
@@ -51,17 +51,17 @@ nav_order: 3
 
 - ["What is an infinity operad? (part II)"](http://www.fen.bilkent.edu.tr/~cvmath/tr/seminars/2021-2022/27052024.pdf) (abstract link), May 2024
 
-##### Algebra Seminar @ Bilkent University
+Algebra Seminar @ Bilkent University
 
 - ["Bimodules (aka profunctors) and double categories, part 1"](http://www.fen.bilkent.edu.tr/~cvmath/seminars/2018Spring/26022018-2.pdf) (abstract link), February 2018
 
 - ["Bimodules (aka profunctors) and double categories, part 2"](http://www.fen.bilkent.edu.tr/~cvmath/tr/seminars/2018Spring/05032018.pdf) (abstract link), March 2018
 
-##### Higher Structures Seminars @ Feza Gürsey Center for Physics and Mathematics
+Higher Structures Seminars @ Feza Gürsey Center for Physics and Mathematics
 
 - ["A simplicial category for higher correspondences"](https://www.youtube.com/watch?v=T3uZha3zvqk) (youtube link), Spring 2023
 
-##### Graduate Student Advisory Committee (GSAC) Colloquium, Mathematics @ The University of Utah
+Graduate Student Advisory Committee (GSAC) Colloquium, Mathematics @ The University of Utah
 
 - ["An Invitation to Categorical Thinking"](http://www.math.utah.edu/gsac/colloq_past/colloq_spring15.html) (abstract link), March 2015
 
