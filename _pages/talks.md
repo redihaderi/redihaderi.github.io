@@ -7,12 +7,12 @@ nav: true
 nav_order: 3
 ---
 
-- "Higher equipments and homotopy colimits", Young Topologists Meeting, EPFL, 2019.
+- ["Higher equipments and homotopy colimits"](https://archiveweb.epfl.ch/ytm2019.epfl.ch/wp-content/uploads/2019/07/haderi-presentation.pdf), Young Topologists Meeting, EPFL, 2019.
 
-- "Simplicial categories as double categories", Topics in Category Theory: Spring School, University of Edinburgh, 2020.
+- "Simplicial categories as double categories", Topics in Category Theory: A Spring School, University of Edinburgh, 2020.
 
-- "Enriched lifting and extension problems", Categories and Companions Symposium, Macquire University, 2021.
+- ["Enriched lifting and extension problems"](https://www.youtube.com/watch?v=yaVvXbFW3Hc), Categories and Companions Symposium, Macquire University, 2021.
 
-- "A simplicial category for higher correspondences", Category Theory 2021, University of Genoa.
+- ["A simplicial category for higher correspondences"](https://www.youtube.com/watch?v=iFF6HA9U4Lc), Category Theory 2021, University of Genoa.
 
-- "The operadic theory of convexity", 7th International Conference in Applied Category Theory, 2024, Oxford University.
+- ["An operadic approach to convexity"](https://oxford24.github.io/assets/act-papers/15_an_operadic_approach_to_convex.pdf), 7th International Conference in Applied Category Theory, 2024, Oxford University.
